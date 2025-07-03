@@ -55,7 +55,7 @@ const questions =[
             ]
     },
     {
-        question:"Is Nour a shy person with here friends?",
+        question:"Is Nour a shy person with her friends?",
         answers: [
             { text: "NEVER!", correct: false},
             { text: "She is ", correct: false},
@@ -66,10 +66,10 @@ const questions =[
     {
         question:"Where does Nour want to live?",
         answers: [
-            { text: "tokyo-japan", correct: false},
-            { text: "nyc-USA", correct: false},
-            { text: "London-UK", correct: false},
-            { text: "batna-Algeria", correct: true},
+            { text: "Japan", correct: false},
+            { text: "USA", correct: false},
+            { text: "UK", correct: false},
+            { text: "Algeria", correct: true},
             ]
     },
     {
@@ -87,7 +87,7 @@ const questions =[
             { text: "To be a succesful artist and writer", correct: true},
             { text: "To leave this world", correct: true},
             { text: "To be billionaire", correct: true},
-            { text: "To live in peacful place and chill", correct: true},
+            { text: "To live in a peacful place and chill", correct: true},
             ]
     },
 ];
