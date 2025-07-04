@@ -1,6 +1,6 @@
 const questions =[
     {
-        question:"When is Noor's birthday?",
+        question:"When is Alexa's birthday?",
         answers: [
             { text: "21 JAN", correct: false},
             { text: "18 MAR", correct: true},
@@ -9,7 +9,7 @@ const questions =[
             ]
     },
     {
-        question:"What's Noor's favorite color?",
+        question:"What's Alexa's favorite color?",
         answers: [
             { text: "Green", correct: false},
             { text: "Yellow", correct: false},
@@ -19,7 +19,7 @@ const questions =[
 
     },
     {
-        question:"What is Nour's favorite animal?",
+        question:"What is Alexa's favorite animal?",
         answers: [
             { text: "pingouin", correct: true},
             { text: "Cats", correct: false},
@@ -28,7 +28,7 @@ const questions =[
             ]
     },
     {
-        question:"what is nour's perfect plan for the weekend?",
+        question:"what is Alexa's perfect plan for the weekend?",
         answers: [
             { text: "hanging out ", correct: false},
             { text: "baking", correct: false},
@@ -37,7 +37,7 @@ const questions =[
             ]
     },
     {
-        question:"What is nour's favourit thing to do in a boring class?",
+        question:"What is Alexa's favourit thing to do in a boring class?",
         answers: [
             { text: "focus", correct: false},
             { text: "sleep", correct: false},
@@ -46,7 +46,7 @@ const questions =[
             ]
     },
     {
-        question:"What's Nour's favorite song?",
+        question:"What's Alexa's favorite song?",
         answers: [
             { text: "west coast ldr", correct: false},
             { text: "appulese -lady gaga", correct: false},
@@ -55,7 +55,7 @@ const questions =[
             ]
     },
     {
-        question:"Is Nour a shy person with her friends?",
+        question:"Is Alexa a shy person with her friends?",
         answers: [
             { text: "NEVER!", correct: false},
             { text: "She is ", correct: false},
@@ -64,7 +64,7 @@ const questions =[
             ]
     },
     {
-        question:"Where does Nour want to live?",
+        question:"Where does Alexa want to live?",
         answers: [
             { text: "Japan", correct: false},
             { text: "USA", correct: false},
@@ -73,7 +73,7 @@ const questions =[
             ]
     },
     {
-        question:"What is Nour's favorite season?",
+        question:"What is Alexa's favorite season?",
         answers: [
             { text: "Winter", correct: false},
             { text: "Autumn", correct: true},
@@ -82,7 +82,7 @@ const questions =[
             ]
     },
     {
-        question:"What's Nour's dream?",
+        question:"What's Alexa's dream?",
         answers: [
             { text: "To be a succesful artist and writer", correct: true},
             { text: "To leave this world", correct: true},
